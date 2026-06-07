@@ -1,0 +1,6 @@
+{
+  "name": "Web Builder",
+  "description": "A professional, offline-first WYSIWYG Web Builder with powerful drag-and-drop elements, resize handles, customizable property inspector, and clean direct code export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
